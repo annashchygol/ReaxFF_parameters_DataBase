@@ -1,0 +1,4 @@
+input: 
+  inputFF: [/Users/anna/Documents/Training sets/ZrMOFs/ffield_best_py.ff, /Users/anna/Documents/Training sets/ZrMOFs/new MCFF run/ffield, /Users/anna/Documents/Training sets/ZrMOFs/new MCFF run/ffield_bool]
+actions:
+  compare: files

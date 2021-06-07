@@ -1,0 +1,9 @@
+input: 
+  inputFF: [/runs/water_ff_start/ffield, /Users/anna/adfhome/atomicdata/ForceFields/ReaxFF/]
+KEY:
+  atoms:
+    C, H, O: -A
+  bonds:
+    C-H, O-H, O-O, H-H: -A
+actions:
+  compare: key

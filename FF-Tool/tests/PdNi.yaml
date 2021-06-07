@@ -1,0 +1,5 @@
+input:
+  inputFF: /Users/anna/adfhome/atomicdata/ForceFields/Reaxff/PdH.ff
+  DBinput: /Users/anna/adfhome/atomicdata/ForceFields/Reaxff
+actions:
+  randGuess:

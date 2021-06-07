@@ -1,0 +1,8 @@
+input:
+    DBinput: /Users/anna/adfhome/atomicdata/ForceFields/Reaxff
+KEY:
+  bonds:
+    C-O: -A
+actions:
+    ranges: minmax
+    compare: keys

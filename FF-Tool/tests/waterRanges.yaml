@@ -1,0 +1,22 @@
+input: 
+  inputFF: /Users/anna/adfhome/examples/reaxff/mcffopt_water/ffield
+  DBinput: [/Users/anna/adfhome/atomicdata/ForceFields/Reaxff, /Users/anna/adfhome/examples/reaxff/mcffopt_water/ffield]
+  #outputPath: /Users/anna/Documents/Training sets/ZrMOFs/fromCluster/water_2
+KEY:
+  atoms:
+    H, O: -A
+  bonds:
+    H-O, H-H, O-O: -A
+  offdiagonal: # was not optimised by Alexei's input; 
+    H-O: -A
+  angles:      # was not optimised by Alexei's input; 
+    O-O-O, H-O-O, H-O-H, O-H-O, H-H-O, H-H-H: -A
+  torsions:    # was not optimised by Alexei's input; 
+    H-O-O-H, H-O-O-O, *-O-O-*, *-H-O-*, *-H-H-*: -A
+  hydrogen:
+    O-H-O: -A
+actions:
+  mcffInput:
+  branch: water
+  ranges: minmax
+  filter: [branch]

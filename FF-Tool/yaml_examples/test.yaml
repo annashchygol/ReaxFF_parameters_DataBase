@@ -1,0 +1,7 @@
+KEY:
+  atoms:
+    (C, H, N, J): [1,3,4]
+    (C, H, N): -A
+  bonds:
+    (C-H, C-O): [5,7]
+  hydrogen: -A

@@ -1,0 +1,12 @@
+input: 
+  inputFF: [/ff/water/InnerWall + No Shielding/CHOLi_copy.ff, /ff/water/InnerWall + No Shielding/CHOLi.ff, /ff/water/InnerWall + Shielding/, /ff/water/InnerWall + No Shielding/CHOLi.ff]
+KEY:
+  atoms:
+    C: 1
+    C, H, N, J, K, Mg, P: [1,3,4,5,20]
+    C, H, N: -A
+  bonds:
+    C-H, C-O: [5,7]
+  hydrogen: -A
+actions:
+  compare: files

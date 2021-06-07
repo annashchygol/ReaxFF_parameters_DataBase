@@ -1,0 +1,75 @@
+Random ReaxFF ff:
+ 39 ! Number of general parameters
+    50.0000 !Overcoordinationparameter
+    9.5469 !Overcoordinationparameter
+   26.5405 !Valencyangleconjugationparameter
+    1.7224 !Triplebondstabilisationparameter
+    6.8702 !Triplebondstabilisationparameter
+   60.4850 !C2-correction
+    1.0588 !Undercoordinationparameter
+    4.6000 !Triplebondstabilisationparameter
+   12.1176 !Undercoordinationparameter
+   13.3056 !Undercoordinationparameter
+  -70.5044 !Triplebondstabilizationenergy
+    0.0000 !LowerTaper-radius
+   10.0000 !UpperTaper-radius
+    2.8793 !Notused 
+   33.8667 !Valencyundercoordination
+    6.0891 !Valencyangle/lonepairparameter
+    1.0563 !Valencyangle
+    2.0384 !Valencyangleparameter
+    6.1431 !Notused 
+    6.9290 !Doublebond/angleparameter
+    0.3989 !Doublebond/angleparameter:overcoord
+    3.9954 !Doublebond/angleparameter:overcoord
+   -2.4837 !Notused 
+    5.7796 !Torsion/BOparameter
+   10.0000 !Torsionovercoordination
+    1.9487 !Torsionovercoordination
+   -1.2327 !Conjugation0(notused)
+    2.1645 !Conjugation
+    1.5591 !vdWaalsshielding
+    0.1000 !Cutoffforbondorder(*100)
+    2.1365 !Valencyangleconjugationparameter
+    0.6991 !Overcoordinationparameter
+   50.0000 !Overcoordinationparameter
+    1.8512 !Valency/lonepairparameter
+    0.5000 !Notused 
+   20.0000 !Notused 
+    5.0000 !Molecularenergy(notused)
+    0.0000 !Molecularenergy(notused)
+    2.6962 !Valencyangleconjugationparameter
+ 3 ! Number of atoms parameters
+ Junk
+ Junk
+ Junk
+H            0.7467   1.0000   1.0080   1.4553   0.1882   0.7742  -0.1000   1.0000
+             8.9993  16.7107   1.0000   0.0000  82.0368   5.0313   8.6872   2.0362
+            -0.1000   0.0000  18.2921   3.8349   4.4287   0.8818   1.7552   2.3458
+           -11.3974   3.0454   0.7521   3.0914   2.8793   0.7193   0.1151   7.9119
+Pd           1.8582   2.0000 106.4200   2.0113   0.2465   1.0000  -1.0000   2.0000
+            12.5712   6.0083   2.0000   0.0000   0.0000   5.5005   6.6477   0.0000
+            -1.0000   0.0000  89.8000  27.2704   1.8727   0.1586   0.8563   0.0000
+           -13.0000   1.7287   1.0338   5.0000   2.5791   0.0000   0.0000   0.0000
+X           -0.0999   2.0000   1.0080   2.0000   0.0000   0.5723  -0.1000   6.0000
+            10.0000   2.5000   4.0000   0.0000   0.0000   6.6333 5703.5691   2.5902
+            -0.1000   0.0000  87.9147   8.7410  13.3640   0.6690   0.9745   0.0000
+           -11.0000   2.7466   1.0338   4.5050   2.8793   0.4671   0.0353   3.5894
+ 3 ! Number of bonds parameters
+ Junk
+2  2       135.8242   0.0000   0.0000  -0.6062   0.0000   1.0000   6.0000   0.7104
+            10.5854   1.0000   0.0000   0.5436  -0.1271   5.2620   0.0000   0.2847
+4  4        90.7003   0.0000   0.0000  -0.1661  -0.2000   0.0000  16.0000   0.2578
+             3.0618  -0.2000  15.0000   1.0000  -0.0914   5.4665   0.0000   0.0000
+2  4        67.5406   0.0000   0.0000   0.6327   0.0000   1.0000   6.0000   0.2077
+             0.7493   1.0000   0.0000   1.0000  -0.0547   4.0000   0.0000   0.0000
+ 1 ! Number of offdiagonal parameters
+2  4         0.1445   1.1103  13.0000   1.5714  -1.0000  -1.0000
+ 5 ! Number of angles parameters
+2  2  2      0.0000  27.9213   5.8635   0.0000   0.0000   0.0000   1.0400
+2  4  2     25.6680  10.1984   7.6844   0.0000   1.0000   0.0000   1.2474
+2  2  4     83.9156  13.0474   0.9983   0.0000   1.0001   0.0000   3.1381
+4  2  4      0.9367  12.0943   6.6344   0.0000   1.0000   0.0000   1.0115
+2  4  4     40.0354   9.2882   8.0000   0.0000   1.0000   0.0000   2.7288
+ 0 ! Number of torsions parameters
+ 0 ! Number of hydrogen parameters

@@ -1,0 +1,27 @@
+# Meant for ffield: ZrOH TS [form Adri]; 
+#KEY: # Keys, based on diff from CHONSSiNaFZr.ff
+#  atoms:
+#    C, Zr, X: -A
+#  bonds: 
+#    O-Zr, H-Zr, C-O, Zr-Zr, H-H, C-C, C-H: -A
+#  offdiagonal:
+#    O-Zr, H-Zr, C-O, C-H: -A
+#  angles:
+#    C-O-C, O-O-Zr, O-O-O, C-C-C, H-C-H, C-C-O, C-C-H, C-H-O, C-O-O, C-O-H, O-Zr-O, H-O-Zr, H-C-O: -A
+#  torsions:
+#    C-C-C-C, C-C-O-C, *-H-O-*, C-C-C-O, H-C-O-C, C-O-O-O, O-C-O-H, C-O-O-H, H-O-O-O, H-C-C-O, H-C-O-O, *-C-H-*, *-H-H-*, H-O-O-H, C-C-C-H, H-C-C-H, O-C-C-O, O-C-O-O, H-C-O-H, O-C-O-C, C-C-O-H: -A
+input:
+  inputFF: [/Users/anna/MOFs/from_Rosenbach/MOFs_data/Added_by_Adri/UiO66Zr_ffield_best_py, /Users/anna/MOFs/from_Adri/ZrOH_trainset/ffield]
+KEY: # Keys, based on diff from Adri UIO:
+  atoms:
+    C, H, Zr: -A
+  bonds:
+    C-O, C-C, H-Zr, Zr-Zr, C-H, H-H, O-Zr, C-Zr: -A
+  offdiagonal:
+    C-O, H-Zr, O-Zr, C-Zr: -A
+  angles:
+    O-C-O, Zr-O-Zr, C-H-O, O-H-O, H-C-H, C-C-H, C-O-Zr, C-C-O, O-O-Zr, H-O-Zr, C-O-C, O-Zr-O, O-O-O, H-C-O, C-O-H, C-O-O, C-C-C: -A
+  torsions:
+    C-C-C-C, C-O-O-H, H-C-O-C, C-O-Zr-O, O-C-C-O, *-H-O-*, C-O-O-O, O-C-O-C, C-C-C-O, H-C-O-O, H-C-C-H, H-C-O-H, C-C-C-H, H-C-C-O, H-O-O-H, C-C-O-C, H-O-Zr-O, *-H-H-*, H-O-O-O, O-C-C-H, *-C-H-*, O-C-O-O, O-O-O-O: -A
+actions:
+  compare: key

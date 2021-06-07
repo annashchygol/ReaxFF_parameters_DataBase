@@ -1,0 +1,19 @@
+{
+    "atoms": [
+        {
+            "id": "blabla",
+            "iscategorical": "0"
+        },
+        {
+            "id": "blabla",
+            "iscategorical": "0"
+        }
+    ],
+    "bonds": {
+        "id": "valore"
+    },
+    "offdiag": "value",
+    "hydrogen": {
+        "id" : "valore"
+    }
+}

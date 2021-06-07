@@ -1,0 +1,265 @@
+INFO:Start extracting files.
+DEBUG:arg = ['/Users/anna/DataBase/ff/water/InnerWall + No Shielding/']
+DEBUG:i = /Users/anna/DataBase/ff/water/InnerWall + No Shielding/
+INFO:Handling: /Users/anna/DataBase/ff/water/InnerWall + No Shielding/
+DEBUG:Potential absPath: /Users/anna/DataBase/ff/water/InnerWall + No Shielding
+DEBUG:Absolute path exists: /Users/anna/DataBase/ff/water/InnerWall + No Shielding
+INFO:Start extracting files.
+DEBUG:arg = ['/Users/anna/DataBase/ff/water/InnerWall + No Shielding/']
+DEBUG:i = /Users/anna/DataBase/ff/water/InnerWall + No Shielding/
+INFO:Handling: /Users/anna/DataBase/ff/water/InnerWall + No Shielding/
+DEBUG:Potential absPath: /Users/anna/DataBase/ff/water/InnerWall + No Shielding
+DEBUG:Absolute path exists: /Users/anna/DataBase/ff/water/InnerWall + No Shielding
+DEBUG:Files for DB = ['/Users/anna/DataBase/ff/water/InnerWall + No Shielding/AgZnO.ff', '/Users/anna/DataBase/ff/water/InnerWall + No Shielding/Al-H2O.ff', '/Users/anna/DataBase/ff/water/InnerWall + No Shielding/AuCSOH.ff', '/Users/anna/DataBase/ff/water/InnerWall + No Shielding/CHOFeAlNiCuS.ff', '/Users/anna/DataBase/ff/water/InnerWall + No Shielding/CHOFeAlNiCuSCr.ff', '/Users/anna/DataBase/ff/water/InnerWall + No Shielding/CHOFeAlNiCuSCr_v2.ff', '/Users/anna/DataBase/ff/water/InnerWall + No Shielding/CHOFeAlNiCuSCr_v3.ff', '/Users/anna/DataBase/ff/water/InnerWall + No Shielding/CHOLi.ff', '/Users/anna/DataBase/ff/water/InnerWall + No Shielding/CHONSFPtClNi.ff', '/Users/anna/DataBase/ff/water/InnerWall + No Shielding/CHONSMgPNaCuCl.ff', '/Users/anna/DataBase/ff/water/InnerWall + No Shielding/CHONSMgPNaCuCl_v2.ff', '/Users/anna/DataBase/ff/water/InnerWall + No Shielding/CHONSMgPNaTiClF.ff', '/Users/anna/DataBase/ff/water/InnerWall + No Shielding/CHONSSiNaAl.ff', '/Users/anna/DataBase/ff/water/InnerWall + No Shielding/CHONSSiNaFZr.ff', '/Users/anna/DataBase/ff/water/InnerWall + No Shielding/Cu-water.ff', '/Users/anna/DataBase/ff/water/InnerWall + No Shielding/CuBTC.ff', '/Users/anna/DataBase/ff/water/InnerWall + No Shielding/CuCl-H2O.ff', '/Users/anna/DataBase/ff/water/InnerWall + No Shielding/FeOCH.ff', '/Users/anna/DataBase/ff/water/InnerWall + No Shielding/FeOCHCl.ff', '/Users/anna/DataBase/ff/water/InnerWall + No Shielding/Glycine.ff', '/Users/anna/DataBase/ff/water/InnerWall + No Shielding/SiOH.ff', '/Users/anna/DataBase/ff/water/InnerWall + No Shielding/TiClOH.ff', '/Users/anna/DataBase/ff/water/InnerWall + No Shielding/TiOCHNCl.ff', '/Users/anna/DataBase/ff/water/InnerWall + No Shielding/ZnOH.ff']
+INFO:Start extracting files.
+DEBUG:arg = ['f=/Users/anna/DataBase/ff/water/InnerWall + No Shielding/CHOLi.ff']
+DEBUG:i = f=/Users/anna/DataBase/ff/water/InnerWall + No Shielding/CHOLi.ff
+INFO:Handling: f=/Users/anna/DataBase/ff/water/InnerWall + No Shielding/CHOLi.ff
+DEBUG:Potential absPath: /Users/anna/DataBase/src/f=/Users/anna/DataBase/ff/water/InnerWall + No Shielding/CHOLi.ff
+INFO:DBdir name:/Users/anna/DataBase
+DEBUG:Potential DBPath: /Users/anna/DataBasef=/Users/anna/DataBase/ff/water/InnerWall + No Shielding/CHOLi.ff
+ERROR:Non-existant path!
+INFO:Start extracting files.
+DEBUG:arg = ['/Users/anna/DataBase/ff/water/InnerWall + No Shielding/']
+DEBUG:i = /Users/anna/DataBase/ff/water/InnerWall + No Shielding/
+INFO:Handling: /Users/anna/DataBase/ff/water/InnerWall + No Shielding/
+DEBUG:Potential absPath: /Users/anna/DataBase/ff/water/InnerWall + No Shielding
+DEBUG:Absolute path exists: /Users/anna/DataBase/ff/water/InnerWall + No Shielding
+DEBUG:Files for DB = ['/Users/anna/DataBase/ff/water/InnerWall + No Shielding/AgZnO.ff', '/Users/anna/DataBase/ff/water/InnerWall + No Shielding/Al-H2O.ff', '/Users/anna/DataBase/ff/water/InnerWall + No Shielding/AuCSOH.ff', '/Users/anna/DataBase/ff/water/InnerWall + No Shielding/CHOFeAlNiCuS.ff', '/Users/anna/DataBase/ff/water/InnerWall + No Shielding/CHOFeAlNiCuSCr.ff', '/Users/anna/DataBase/ff/water/InnerWall + No Shielding/CHOFeAlNiCuSCr_v2.ff', '/Users/anna/DataBase/ff/water/InnerWall + No Shielding/CHOFeAlNiCuSCr_v3.ff', '/Users/anna/DataBase/ff/water/InnerWall + No Shielding/CHOLi.ff', '/Users/anna/DataBase/ff/water/InnerWall + No Shielding/CHONSFPtClNi.ff', '/Users/anna/DataBase/ff/water/InnerWall + No Shielding/CHONSMgPNaCuCl.ff', '/Users/anna/DataBase/ff/water/InnerWall + No Shielding/CHONSMgPNaCuCl_v2.ff', '/Users/anna/DataBase/ff/water/InnerWall + No Shielding/CHONSMgPNaTiClF.ff', '/Users/anna/DataBase/ff/water/InnerWall + No Shielding/CHONSSiNaAl.ff', '/Users/anna/DataBase/ff/water/InnerWall + No Shielding/CHONSSiNaFZr.ff', '/Users/anna/DataBase/ff/water/InnerWall + No Shielding/Cu-water.ff', '/Users/anna/DataBase/ff/water/InnerWall + No Shielding/CuBTC.ff', '/Users/anna/DataBase/ff/water/InnerWall + No Shielding/CuCl-H2O.ff', '/Users/anna/DataBase/ff/water/InnerWall + No Shielding/FeOCH.ff', '/Users/anna/DataBase/ff/water/InnerWall + No Shielding/FeOCHCl.ff', '/Users/anna/DataBase/ff/water/InnerWall + No Shielding/Glycine.ff', '/Users/anna/DataBase/ff/water/InnerWall + No Shielding/SiOH.ff', '/Users/anna/DataBase/ff/water/InnerWall + No Shielding/TiClOH.ff', '/Users/anna/DataBase/ff/water/InnerWall + No Shielding/TiOCHNCl.ff', '/Users/anna/DataBase/ff/water/InnerWall + No Shielding/ZnOH.ff']
+INFO:Start extracting files.
+DEBUG:arg = ['f=/Users/anna/DataBase/ff/water/InnerWall + No Shielding/CHOLi.ff']
+DEBUG:i = f=/Users/anna/DataBase/ff/water/InnerWall + No Shielding/CHOLi.ff
+INFO:Handling: f=/Users/anna/DataBase/ff/water/InnerWall + No Shielding/CHOLi.ff
+DEBUG:Potential absPath: /Users/anna/DataBase/src/f=/Users/anna/DataBase/ff/water/InnerWall + No Shielding/CHOLi.ff
+INFO:DBdir name:/Users/anna/DataBase
+DEBUG:Potential DBPath: /Users/anna/DataBasef=/Users/anna/DataBase/ff/water/InnerWall + No Shielding/CHOLi.ff
+ERROR:Non-existant path!
+INFO:Parsing input FF-Tool arguments.
+INFO:Start extracting files.
+DEBUG:arg = []
+DEBUG:KEY(s) file(s) = []
+DEBUG:Path: 
+INFO:List of files[]
+INFO:[]
+INFO:Parsing input FF-Tool arguments.
+INFO:Start extracting files.
+DEBUG:arg = []
+DEBUG:KEY(s) file(s) = []
+DEBUG:Path: 
+INFO:List of files[]
+INFO:[]
+INFO:Parsing input FF-Tool arguments.
+INFO:Updating input arguments, dependent on the path:
+INFO:Start extracting files.
+DEBUG:arg = ['f=/Users/anna/DataBase/ff/water/InnerWall + No Shielding/CHOLi.ff']
+DEBUG:i = f=/Users/anna/DataBase/ff/water/InnerWall + No Shielding/CHOLi.ff
+INFO:Handling: f=/Users/anna/DataBase/ff/water/InnerWall + No Shielding/CHOLi.ff
+DEBUG:Potential absPath: /Users/anna/DataBase/src/f=/Users/anna/DataBase/ff/water/InnerWall + No Shielding/CHOLi.ff
+INFO:DBdir name:/Users/anna/DataBase
+DEBUG:Potential DBPath: /Users/anna/DataBasef=/Users/anna/DataBase/ff/water/InnerWall + No Shielding/CHOLi.ff
+ERROR:Non-existant path!
+INFO:Parsing input FF-Tool arguments.
+INFO:Updating input arguments, dependent on the path:
+INFO:Start extracting files.
+DEBUG:arg = ['/Users/anna/DataBase/ff/water/InnerWall + No Shielding/CHOLi.ff']
+DEBUG:i = /Users/anna/DataBase/ff/water/InnerWall + No Shielding/CHOLi.ff
+INFO:Handling: /Users/anna/DataBase/ff/water/InnerWall + No Shielding/CHOLi.ff
+DEBUG:Potential absPath: /Users/anna/DataBase/ff/water/InnerWall + No Shielding/CHOLi.ff
+DEBUG:Absolute path exists: /Users/anna/DataBase/ff/water/InnerWall + No Shielding/CHOLi.ff
+INFO: 
+DEBUG:FilePath: /Users/anna/DataBase/ff/water/InnerWall + No Shielding/CHOLi.ff
+DEBUG:Force field file(s):[inputFF] = ['/Users/anna/DataBase/ff/water/InnerWall + No Shielding/CHOLi.ff']
+INFO:Start extracting files.
+DEBUG:arg = ['/Users/anna/DataBase/ff/water/InnerWall + No Shielding/']
+DEBUG:i = /Users/anna/DataBase/ff/water/InnerWall + No Shielding/
+INFO:Handling: /Users/anna/DataBase/ff/water/InnerWall + No Shielding/
+DEBUG:Potential absPath: /Users/anna/DataBase/ff/water/InnerWall + No Shielding
+DEBUG:Absolute path exists: /Users/anna/DataBase/ff/water/InnerWall + No Shielding
+DEBUG:DB input file(s):[DBinput] = ['/Users/anna/DataBase/ff/water/InnerWall + No Shielding/AgZnO.ff', '/Users/anna/DataBase/ff/water/InnerWall + No Shielding/Al-H2O.ff', '/Users/anna/DataBase/ff/water/InnerWall + No Shielding/AuCSOH.ff', '/Users/anna/DataBase/ff/water/InnerWall + No Shielding/CHOFeAlNiCuS.ff', '/Users/anna/DataBase/ff/water/InnerWall + No Shielding/CHOFeAlNiCuSCr.ff', '/Users/anna/DataBase/ff/water/InnerWall + No Shielding/CHOFeAlNiCuSCr_v2.ff', '/Users/anna/DataBase/ff/water/InnerWall + No Shielding/CHOFeAlNiCuSCr_v3.ff', '/Users/anna/DataBase/ff/water/InnerWall + No Shielding/CHOLi.ff', '/Users/anna/DataBase/ff/water/InnerWall + No Shielding/CHONSFPtClNi.ff', '/Users/anna/DataBase/ff/water/InnerWall + No Shielding/CHONSMgPNaCuCl.ff', '/Users/anna/DataBase/ff/water/InnerWall + No Shielding/CHONSMgPNaCuCl_v2.ff', '/Users/anna/DataBase/ff/water/InnerWall + No Shielding/CHONSMgPNaTiClF.ff', '/Users/anna/DataBase/ff/water/InnerWall + No Shielding/CHONSSiNaAl.ff', '/Users/anna/DataBase/ff/water/InnerWall + No Shielding/CHONSSiNaFZr.ff', '/Users/anna/DataBase/ff/water/InnerWall + No Shielding/Cu-water.ff', '/Users/anna/DataBase/ff/water/InnerWall + No Shielding/CuBTC.ff', '/Users/anna/DataBase/ff/water/InnerWall + No Shielding/CuCl-H2O.ff', '/Users/anna/DataBase/ff/water/InnerWall + No Shielding/FeOCH.ff', '/Users/anna/DataBase/ff/water/InnerWall + No Shielding/FeOCHCl.ff', '/Users/anna/DataBase/ff/water/InnerWall + No Shielding/Glycine.ff', '/Users/anna/DataBase/ff/water/InnerWall + No Shielding/SiOH.ff', '/Users/anna/DataBase/ff/water/InnerWall + No Shielding/TiClOH.ff', '/Users/anna/DataBase/ff/water/InnerWall + No Shielding/TiOCHNCl.ff', '/Users/anna/DataBase/ff/water/InnerWall + No Shielding/ZnOH.ff']
+INFO:Start extracting files.
+DEBUG:arg = []
+DEBUG:KEY(s) file(s) = []
+DEBUG:Path: 
+INFO:List of files[]
+INFO:[]
+INFO:Parsing input FF-Tool arguments.
+INFO:Updating input arguments, dependent on the path:
+INFO:Start extracting files.
+DEBUG:arg = ['/Users/anna/DataBase/ff/water/InnerWall + No Shielding/CHOLi.ff']
+DEBUG:i = /Users/anna/DataBase/ff/water/InnerWall + No Shielding/CHOLi.ff
+INFO:Handling: /Users/anna/DataBase/ff/water/InnerWall + No Shielding/CHOLi.ff
+DEBUG:Potential absPath: /Users/anna/DataBase/ff/water/InnerWall + No Shielding/CHOLi.ff
+DEBUG:Absolute path exists: /Users/anna/DataBase/ff/water/InnerWall + No Shielding/CHOLi.ff
+INFO: 
+DEBUG:FilePath: /Users/anna/DataBase/ff/water/InnerWall + No Shielding/CHOLi.ff
+DEBUG:Force field file(s):[inputFF] = ['/Users/anna/DataBase/ff/water/InnerWall + No Shielding/CHOLi.ff']
+INFO:Start extracting files.
+DEBUG:arg = ['/Users/anna/DataBase/ff/water/InnerWall + No Shielding/CHOLi.ff']
+DEBUG:i = /Users/anna/DataBase/ff/water/InnerWall + No Shielding/CHOLi.ff
+INFO:Handling: /Users/anna/DataBase/ff/water/InnerWall + No Shielding/CHOLi.ff
+DEBUG:Potential absPath: /Users/anna/DataBase/ff/water/InnerWall + No Shielding/CHOLi.ff
+DEBUG:Absolute path exists: /Users/anna/DataBase/ff/water/InnerWall + No Shielding/CHOLi.ff
+INFO: 
+DEBUG:FilePath: /Users/anna/DataBase/ff/water/InnerWall + No Shielding/CHOLi.ff
+DEBUG:DB input file(s):[DBinput] = ['/Users/anna/DataBase/ff/water/InnerWall + No Shielding/CHOLi.ff']
+INFO:Start extracting files.
+DEBUG:arg = []
+DEBUG:KEY(s) file(s) = []
+DEBUG:Path: 
+INFO:List of files[]
+INFO:[]
+INFO:Parsing input FF-Tool arguments.
+INFO:Updating input arguments, dependent on the path:
+INFO:Start extracting files.
+DEBUG:arg = ['/ff/water/InnerWall + No Shielding/CHOLi.ff']
+DEBUG:i = /ff/water/InnerWall + No Shielding/CHOLi.ff
+INFO:Handling: /ff/water/InnerWall + No Shielding/CHOLi.ff
+DEBUG:Potential absPath: /ff/water/InnerWall + No Shielding/CHOLi.ff
+INFO:DBdir name:/Users/anna/DataBase
+DEBUG:Potential DBPath: /Users/anna/DataBase/ff/water/InnerWall + No Shielding/CHOLi.ff
+DEBUG:Path from DB exists: /Users/anna/DataBase/ff/water/InnerWall + No Shielding/CHOLi.ff
+INFO: 
+DEBUG:FilePath: /Users/anna/DataBase/ff/water/InnerWall + No Shielding/CHOLi.ff
+DEBUG:Force field file(s):[inputFF] = ['/Users/anna/DataBase/ff/water/InnerWall + No Shielding/CHOLi.ff']
+INFO:Start extracting files.
+DEBUG:arg = ['/ff/water/InnerWall + No Shielding/CHOLi.ff']
+DEBUG:i = /ff/water/InnerWall + No Shielding/CHOLi.ff
+INFO:Handling: /ff/water/InnerWall + No Shielding/CHOLi.ff
+DEBUG:Potential absPath: /ff/water/InnerWall + No Shielding/CHOLi.ff
+INFO:DBdir name:/Users/anna/DataBase
+DEBUG:Potential DBPath: /Users/anna/DataBase/ff/water/InnerWall + No Shielding/CHOLi.ff
+DEBUG:Path from DB exists: /Users/anna/DataBase/ff/water/InnerWall + No Shielding/CHOLi.ff
+INFO: 
+DEBUG:FilePath: /Users/anna/DataBase/ff/water/InnerWall + No Shielding/CHOLi.ff
+DEBUG:DB input file(s):[DBinput] = ['/Users/anna/DataBase/ff/water/InnerWall + No Shielding/CHOLi.ff']
+INFO:Start extracting files.
+DEBUG:arg = []
+DEBUG:KEY(s) file(s) = []
+DEBUG:Path: 
+INFO:List of files[]
+INFO:[]
+INFO:Parsing input FF-Tool arguments.
+INFO:Updating input arguments, dependent on the path:
+INFO:Start extracting files.
+DEBUG:arg = ['/ff/water/InnerWall + No Shielding/CHOLi.ff']
+DEBUG:i = /ff/water/InnerWall + No Shielding/CHOLi.ff
+INFO:Handling: /ff/water/InnerWall + No Shielding/CHOLi.ff
+DEBUG:Potential absPath: /ff/water/InnerWall + No Shielding/CHOLi.ff
+INFO:DBdir name:/Users/anna/DataBase
+DEBUG:Potential DBPath: /Users/anna/DataBase/ff/water/InnerWall + No Shielding/CHOLi.ff
+DEBUG:Path from DB exists: /Users/anna/DataBase/ff/water/InnerWall + No Shielding/CHOLi.ff
+INFO: 
+DEBUG:FilePath: /Users/anna/DataBase/ff/water/InnerWall + No Shielding/CHOLi.ff
+DEBUG:Force field file(s):[inputFF] = ['/Users/anna/DataBase/ff/water/InnerWall + No Shielding/CHOLi.ff']
+INFO:Start extracting files.
+DEBUG:arg = ['/ff/water/InnerWall + No Shielding/CHOLi.ff']
+DEBUG:i = /ff/water/InnerWall + No Shielding/CHOLi.ff
+INFO:Handling: /ff/water/InnerWall + No Shielding/CHOLi.ff
+DEBUG:Potential absPath: /ff/water/InnerWall + No Shielding/CHOLi.ff
+INFO:DBdir name:/Users/anna/DataBase
+DEBUG:Potential DBPath: /Users/anna/DataBase/ff/water/InnerWall + No Shielding/CHOLi.ff
+DEBUG:Path from DB exists: /Users/anna/DataBase/ff/water/InnerWall + No Shielding/CHOLi.ff
+INFO: 
+DEBUG:FilePath: /Users/anna/DataBase/ff/water/InnerWall + No Shielding/CHOLi.ff
+DEBUG:DB input file(s):[DBinput] = ['/Users/anna/DataBase/ff/water/InnerWall + No Shielding/CHOLi.ff']
+INFO:Start extracting files.
+DEBUG:arg = ['/src/test.yaml']
+DEBUG:i = /src/test.yaml
+INFO:Handling: /src/test.yaml
+DEBUG:Potential absPath: /src/test.yaml
+INFO:DBdir name:/Users/anna/DataBase
+DEBUG:Potential DBPath: /Users/anna/DataBase/src/test.yaml
+DEBUG:Path from DB exists: /Users/anna/DataBase/src/test.yaml
+INFO: 
+DEBUG:FilePath: /Users/anna/DataBase/src/test.yaml
+DEBUG:KEY(s) file(s) = ['/Users/anna/DataBase/src/test.yaml']
+INFO:Start extracting files.
+DEBUG:arg = ['/src/test.yaml']
+DEBUG:i = /src/test.yaml
+INFO:Handling: /src/test.yaml
+DEBUG:Potential absPath: /src/test.yaml
+INFO:DBdir name:/Users/anna/DataBase
+DEBUG:Potential DBPath: /Users/anna/DataBase/src/test.yaml
+DEBUG:Path from DB exists: /Users/anna/DataBase/src/test.yaml
+INFO: 
+DEBUG:FilePath: /Users/anna/DataBase/src/test.yaml
+DEBUG:KEY(s) file(s) = ['/Users/anna/DataBase/src/test.yaml']
+DEBUG:Path: 
+INFO:List of files[]
+INFO:[]
+INFO:Parsing input FF-Tool arguments.
+INFO:Updating input arguments, dependent on the path:
+INFO:Start extracting files.
+DEBUG:arg = ['/ff/water/InnerWall + No Shielding/CHOLi.ff']
+DEBUG:i = /ff/water/InnerWall + No Shielding/CHOLi.ff
+INFO:Handling: /ff/water/InnerWall + No Shielding/CHOLi.ff
+DEBUG:Potential absPath: /ff/water/InnerWall + No Shielding/CHOLi.ff
+INFO:DBdir name:/Users/anna/DataBase
+DEBUG:Potential DBPath: /Users/anna/DataBase/ff/water/InnerWall + No Shielding/CHOLi.ff
+DEBUG:Path from DB exists: /Users/anna/DataBase/ff/water/InnerWall + No Shielding/CHOLi.ff
+INFO: 
+DEBUG:FilePath: /Users/anna/DataBase/ff/water/InnerWall + No Shielding/CHOLi.ff
+DEBUG:Force field file(s):[inputFF] = ['/Users/anna/DataBase/ff/water/InnerWall + No Shielding/CHOLi.ff']
+INFO:Start extracting files.
+DEBUG:arg = ['/ff/water/InnerWall + No Shielding/CHOLi.ff']
+DEBUG:i = /ff/water/InnerWall + No Shielding/CHOLi.ff
+INFO:Handling: /ff/water/InnerWall + No Shielding/CHOLi.ff
+DEBUG:Potential absPath: /ff/water/InnerWall + No Shielding/CHOLi.ff
+INFO:DBdir name:/Users/anna/DataBase
+DEBUG:Potential DBPath: /Users/anna/DataBase/ff/water/InnerWall + No Shielding/CHOLi.ff
+DEBUG:Path from DB exists: /Users/anna/DataBase/ff/water/InnerWall + No Shielding/CHOLi.ff
+INFO: 
+DEBUG:FilePath: /Users/anna/DataBase/ff/water/InnerWall + No Shielding/CHOLi.ff
+DEBUG:DB input file(s):[DBinput] = ['/Users/anna/DataBase/ff/water/InnerWall + No Shielding/CHOLi.ff']
+INFO:Start extracting files.
+DEBUG:arg = ['/src/test.yaml']
+DEBUG:i = /src/test.yaml
+INFO:Handling: /src/test.yaml
+DEBUG:Potential absPath: /src/test.yaml
+INFO:DBdir name:/Users/anna/DataBase
+DEBUG:Potential DBPath: /Users/anna/DataBase/src/test.yaml
+DEBUG:Path from DB exists: /Users/anna/DataBase/src/test.yaml
+INFO: 
+DEBUG:FilePath: /Users/anna/DataBase/src/test.yaml
+DEBUG:KEY(s) file(s) = ['/Users/anna/DataBase/src/test.yaml']
+DEBUG:Path: 
+INFO:List of files[]
+INFO:[]
+INFO:Parsing input FF-Tool arguments.
+INFO:Updating input arguments, dependent on the path:
+INFO:Start extracting files.
+DEBUG:arg = ['/ff/water/InnerWall + No Shielding/CHOLi.ff']
+DEBUG:i = /ff/water/InnerWall + No Shielding/CHOLi.ff
+INFO:Handling: /ff/water/InnerWall + No Shielding/CHOLi.ff
+DEBUG:Potential absPath: /ff/water/InnerWall + No Shielding/CHOLi.ff
+INFO:DBdir name:/Users/anna/DataBase
+DEBUG:Potential DBPath: /Users/anna/DataBase/ff/water/InnerWall + No Shielding/CHOLi.ff
+DEBUG:Path from DB exists: /Users/anna/DataBase/ff/water/InnerWall + No Shielding/CHOLi.ff
+INFO: 
+DEBUG:FilePath: /Users/anna/DataBase/ff/water/InnerWall + No Shielding/CHOLi.ff
+DEBUG:Force field file(s):[inputFF] = ['/Users/anna/DataBase/ff/water/InnerWall + No Shielding/CHOLi.ff']
+INFO:Start extracting files.
+DEBUG:arg = ['/ff/water/InnerWall + No Shielding/CHOLi.ff']
+DEBUG:i = /ff/water/InnerWall + No Shielding/CHOLi.ff
+INFO:Handling: /ff/water/InnerWall + No Shielding/CHOLi.ff
+DEBUG:Potential absPath: /ff/water/InnerWall + No Shielding/CHOLi.ff
+INFO:DBdir name:/Users/anna/DataBase
+DEBUG:Potential DBPath: /Users/anna/DataBase/ff/water/InnerWall + No Shielding/CHOLi.ff
+DEBUG:Path from DB exists: /Users/anna/DataBase/ff/water/InnerWall + No Shielding/CHOLi.ff
+INFO: 
+DEBUG:FilePath: /Users/anna/DataBase/ff/water/InnerWall + No Shielding/CHOLi.ff
+DEBUG:DB input file(s):[DBinput] = ['/Users/anna/DataBase/ff/water/InnerWall + No Shielding/CHOLi.ff']
+INFO:Start extracting files.
+DEBUG:arg = ['/src/test.yaml']
+DEBUG:i = /src/test.yaml
+INFO:Handling: /src/test.yaml
+DEBUG:Potential absPath: /src/test.yaml
+INFO:DBdir name:/Users/anna/DataBase
+DEBUG:Potential DBPath: /Users/anna/DataBase/src/test.yaml
+DEBUG:Path from DB exists: /Users/anna/DataBase/src/test.yaml
+INFO: 
+DEBUG:FilePath: /Users/anna/DataBase/src/test.yaml
+DEBUG:KEY(s) file(s) = ['/Users/anna/DataBase/src/test.yaml']
+DEBUG:Path: 
+INFO:List of files[]
+INFO:[]

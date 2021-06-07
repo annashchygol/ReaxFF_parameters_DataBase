@@ -1,0 +1,17 @@
+input:
+  inputFF: /Users/anna/Documents/Training sets/ZrMOFs/ffield_best_v1.ff
+  DBinput: /ff/water/InnerWall + No Shielding/
+KEY:
+  bonds:
+    H-Zr, O-Zr, Zr-Zr: [1,4,8,9,13,14]
+  offdiagonal:
+    C-Zr, H-Zr, O-Zr: [1,2,3,4,5,6]
+  angle:
+    C-O-Zr, H-O-Zr, O-O-Zr, O-Zr-O, Zr-O-Zr: [1,2,3,5,7]
+  torsion:
+    C-C-O-Zr, C-O-Zr-O, H-C-O-Zr, H-O-Zr-O, O-C-O-Zr, O-Zr-O-Zr: [1,2,3,4,5]
+actions:
+  mcffInput:
+  bool: True
+  branch: water
+  ranges: minmax

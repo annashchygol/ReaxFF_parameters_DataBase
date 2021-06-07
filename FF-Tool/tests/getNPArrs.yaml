@@ -1,0 +1,18 @@
+input:
+  #DBinput: /Users/anna/Documents/Training sets/ZrMOFs/my ZrMOFs 2/ff/
+  #DBinput: [/Users/anna/Documents/Training sets/ZrMOFs/fromCluster/10k_777/ff, /Users/anna/Documents/Training sets/ZrMOFs/fromCluster/10k_777/2-extend/ff]
+  DBinput: /Users/anna/Documents/Training sets/ZrMOFs/fromCluster/ChiaraTS-100k/diff_weights/geOpt/ff #100k_interrupt/ff #ChiaraTS-100k/diff_weights/extra_100k/ff #
+  inMin: /Users/anna/Documents/Training sets/ZrMOFs/fromCluster/ChiaraTS-100k/diff_weights/geOpt/ffield_min #100k_interrupt/ffield_min  #
+  inMax: /Users/anna/Documents/Training sets/ZrMOFs/fromCluster/ChiaraTS-100k/diff_weights/geOpt/ffield_max #100k_interrupt/ffield_max
+KEY:
+  bonds:
+    H-Zr, O-Zr, Zr-Zr: [1,4,8,9,13,14]
+  offdiagonal:
+    C-Zr, H-Zr, O-Zr: [1,2,3,4,5,6]
+  angles:
+    C-O-Zr, H-O-Zr, O-O-Zr, O-Zr-O, Zr-O-Zr: [1,2,3,5,7]
+  torsions:
+    C-C-O-Zr, C-O-Zr-O, H-C-O-Zr, H-O-Zr-O, O-C-O-Zr, O-Zr-O-Zr: [1,2,3,4,5] # for O-Zr-O-Zr: param #2 is const; 
+    '*-O-Zr-*': [1,2,3,4,5] # separate line to parse * symbol;
+actions:
+  nparr: keys

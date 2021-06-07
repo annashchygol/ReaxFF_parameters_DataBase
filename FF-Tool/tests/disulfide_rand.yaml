@@ -1,0 +1,5 @@
+input:
+  inputFF: /Users/anna/DataBase/runs/disulfide/ffield
+  params: /Users/anna/DataBase/runs/disulfide/params
+actions:
+  randGuess: 

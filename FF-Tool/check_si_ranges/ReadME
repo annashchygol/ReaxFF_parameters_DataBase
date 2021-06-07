@@ -1,0 +1,2 @@
+It turned out that the params-ranges used for the GA runs were inconsistent with the other (MCFF and CMA-ES) runs.
+Files 'params-ranges' = 'params-ranges_to_upd' are matching ranges in ffield_min/max. 

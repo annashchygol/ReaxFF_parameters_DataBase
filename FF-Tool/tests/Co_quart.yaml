@@ -1,0 +1,12 @@
+input:
+  inputFF: /Users/anna/Documents/Training sets/water/water_mcff/ffield
+   #/Users/anna/DataBase/runs/Hartke/ffield
+   #/Users/anna/Documents/Training sets/Hartke/SiO/ffield-2807
+   #/Users/anna/Documents/Training sets/from_Adri/MCFF-run/ffield <-Cobalt
+  #DBinput: [/Users/anna/adfhome/atomicdata/ForceFields/ReaxFF/, /Users/anna/DataBase/runs/water_2/ffield]
+  DBinput: [/Users/anna/Documents/Training sets/water/water_mcff/ffield_min, /Users/anna/Documents/Training sets/water/water_mcff/ffield_max]
+  #outputPath: /Users/anna/DataBase/runs/Hartke/
+actions:
+  randGuess: # To generate random initial guess; 
+  #mcffInput:
+  #ranges: minmax

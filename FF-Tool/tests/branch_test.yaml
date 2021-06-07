@@ -1,0 +1,5 @@
+input: 
+  inputFF: [/ff/combustion/InnerWall + No Shielding/VOCH.ff, /ff/combustion/InnerWall + No Shielding/NaH.ff, /ff/water/InnerWall + No Shielding/Al-H2O.ff, /ff/WaterCsI-ACKS2.ff]
+KEY:
+  bonds:
+    C-O: [5,7]
